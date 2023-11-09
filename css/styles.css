@@ -1,0 +1,8 @@
+#buttonInstall {
+    display: none;
+    border:1px ;
+    background-color: transparent;
+    color: rgb(34, 0, 255);
+    font-size: 25px;
+   
+}

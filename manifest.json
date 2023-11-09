@@ -1,0 +1,21 @@
+{
+  "name": "pwa",
+  "short_name": "Rodrigo Faustino",
+  "theme_color": "#545454",
+  "background_color": "#4ca462 ",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "prefer_related_applications": false,
+    "fcm_sender_id": "952219745992",
+  "icons": [
+    {
+      "src": "img/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+}
